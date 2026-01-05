@@ -1,15 +1,15 @@
 <div align="center">
 
 # Hi, I'm YunoWiz 👋
+aka HZNPrince :)
 
 ### Solana Developer | Rust & TypeScript
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YunoWiz?label=Follow&style=social)](https://x.com/YunoWiz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/prince-mehta-37a520333/)
-[![GitHub followers](https://img.shields.io/github/followers/HZNPrince?label=Follow&style=social)](https://github.com/HZNPrince)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x&logoColor=white)](https://x.com/YunoWiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-mehta-37a520333/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/HZNPrince)
 
 </div>
-
 ---
 
 ### 🧱 Know Me
