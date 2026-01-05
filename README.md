@@ -59,10 +59,3 @@ I am a blockchain developer specializing in high-performance protocols on the So
 | **Ackee Blockchain** | School of Solana (Season 8) | **Alumni / Graduate** |
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HZNPrince&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="HZNPrince's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HZNPrince&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Langs" />
-</p>
