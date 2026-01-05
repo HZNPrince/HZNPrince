@@ -66,11 +66,3 @@ I am a developer exploring the Solana ecosystem. My interest lies in understandi
 * **Turbin3 Builders Cohort** (Q1 2026) – *Selected Developer*
 * **Ackee School of Solana** (Season 8) – *Alumni / Completed*
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HZNPrince&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="HZNPrince's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HZNPrince&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Langs" />
-</div>
