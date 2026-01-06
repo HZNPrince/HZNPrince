@@ -37,10 +37,10 @@ I am a developer exploring the Solana ecosystem. My interest lies in understandi
 * **Tech:** Rust, Anchor, Metaplex.
 * **Key Features:** On-chain randomness (Oracles), ticket minting, and automated prize distribution.
 
-#### 3. [Solana Bootcamp](https://github.com/HZNPrince/Ackee-Bootcamp-Tasks)
-* **What:** Collection of advanced assignments from the School of Solana (Ackee) bootcamp.
+#### 3. [Solana Bootcamp](https://github.com/HZNPrince/Solana-Bootcamp-2024)
+* **What:** Collection of advanced projects from the Solana Bootcamp 2024.
 * **Tech:** Rust, Anchor, TypeScript.
-* **Key Features:** Optimized programs covering various Solana primitives.
+* **Key Features:** Optimized programs (Lending, Swap, Token vesting) covering various Solana primitives.
 
 #### 4. [Solana Sentinel Bot](https://github.com/HZNPrince/Solana-Sentinel-Discord-bot-)
 * **What:** A Discord bot for Solana-related community interactions.
