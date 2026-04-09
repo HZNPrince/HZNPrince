@@ -1,0 +1,45 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="140" fill="#f5f0e8"/>
+  <pattern id="hatch" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+    <line x1="0" y1="8" x2="8" y2="0" stroke="#0d0d1a" stroke-width="0.4" opacity="0.08"/>
+  </pattern>
+  <rect width="900" height="140" fill="url(#hatch)"/>
+
+  <rect x="0" y="0" width="900" height="140" fill="none" stroke="#0d0d1a" stroke-width="4"/>
+
+  <!-- Header bar -->
+  <rect x="4" y="4" width="892" height="36" fill="#0d0d1a"/>
+  <text x="20" y="27" font-family="'Arial Black', Impact, sans-serif" font-size="16" font-weight="900"
+        fill="white" letter-spacing="5">⚔  ARSENAL</text>
+  <!-- Panel number -->
+  <text x="860" y="27" font-family="'Courier New', monospace" font-size="12" font-weight="700"
+        fill="white" opacity="0.5">02</text>
+
+  <!-- Skill rows -->
+  <!-- Row 1: Languages -->
+  <rect x="20" y="54" width="90" height="20" fill="#0d0d1a"/>
+  <text x="65" y="68" font-family="'Courier New', monospace" font-size="10" font-weight="700"
+        fill="white" text-anchor="middle" letter-spacing="1">LANGUAGES</text>
+
+  <text x="124" y="68" font-family="'Courier New', monospace" font-size="11" fill="#0d0d1a" letter-spacing="0.5">▸  Rust  ·  TypeScript</text>
+
+  <!-- Row 2: Backend -->
+  <rect x="20" y="82" width="90" height="20" fill="#0d0d1a"/>
+  <text x="65" y="96" font-family="'Courier New', monospace" font-size="10" font-weight="700"
+        fill="white" text-anchor="middle" letter-spacing="1">BACKEND</text>
+
+  <text x="124" y="96" font-family="'Courier New', monospace" font-size="11" fill="#0d0d1a" letter-spacing="0.5">▸  Axum  ·  Tokio  ·  SQLx  ·  PostgreSQL  ·  Async/Concurrency</text>
+
+  <!-- Row 3: Solana -->
+  <rect x="20" y="110" width="90" height="20" fill="#0d0d1a"/>
+  <text x="65" y="124" font-family="'Courier New', monospace" font-size="10" font-weight="700"
+        fill="white" text-anchor="middle" letter-spacing="1">SOLANA</text>
+
+  <text x="124" y="124" font-family="'Courier New', monospace" font-size="11" fill="#0d0d1a" letter-spacing="0.5">▸  Anchor  ·  Yellowstone gRPC  ·  SPL Tokens  ·  Metaplex Core  ·  Oracles  ·  Indexing</text>
+
+  <!-- Vertical divider after labels -->
+  <line x1="112" y1="48" x2="112" y2="136" stroke="#0d0d1a" stroke-width="2"/>
+
+  <!-- Corner accent -->
+  <polygon points="860,4 892,4 892,36" fill="white" opacity="0.08"/>
+</svg>
